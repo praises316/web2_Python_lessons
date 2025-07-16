@@ -56,6 +56,6 @@ print("Enter two numbers to divide with floor division")
 firstNumber = input("First Number:")
 secondNumber = input("Second Number:")
 floor_division = float(firstNumber) // float(secondNumber)
-print(f"The result of the exponential from the two numbers is equal to {Exponential:2f}")
+print(f"The result of the exponential from the two numbers is equal to {floor_division}")
 print(f"{firstNumber} // {secondNumber} = {floor_division}")
 
